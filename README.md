@@ -1,2 +1,2 @@
-# terrafirm-p2pb2b
+# terraform-p2pb2b
 p2pb2b
